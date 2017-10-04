@@ -1,0 +1,8 @@
+{
+  "name": "pdc-timestamp-schema",
+  "version": "0.0.0",
+  "description": "JSON Schema for Public Domain Chronicle publication timestamps",
+  "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
+  "repository": "publicdomainchronicle/pdc-timestamp-schema",
+  "license": "Apache-2.0"
+}
