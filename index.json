@@ -3,6 +3,9 @@
     "$schema": "http://json-schema.org/draft-06/schema#",
     "type": "object",
     "properties": {
+      "version": {
+        "const": "1.0.0"
+      },
       "timestamp": {
         "type": "object",
         "properties": {
@@ -30,6 +33,7 @@
       }
     },
     "required": [
+      "version",
       "timestamp",
       "signature"
     ],
